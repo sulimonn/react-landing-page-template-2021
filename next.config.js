@@ -4,6 +4,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 });
 
 module.exports = withBundleAnalyzer({
+  distDir: 'out',
   poweredByHeader: false,
   trailingSlash: true,
   basePath: '',
