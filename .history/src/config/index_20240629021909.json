@@ -1,0 +1,158 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Контакты",
+      "href": "contact"
+    },
+    {
+      "name": "Услуги",
+      "href": "services"
+    },
+    {
+      "name": "О компании",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Начните сейчас",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Добро пожаловать в",
+    "subtitle": "VR Tech Solutions",
+    "description": "Достижение новых высот в бизнесе, обучении и творчестве с VR Tech Solutions.",
+    "img": "/assets/images/main.png",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    }
+  },
+  "product": {
+    "title": "Наши Услуги",
+    "items": [
+      {
+        "title": "VR для образования",
+        "description": "VR услуги для создания интерактивных учебных программ, которые позволяют студентам и ученикам «погружаться» в учебный процесс. Это особенно полезно для изучения сложных и абстрактных концепций, а также для тренировки практических навыков в безопасной среде. К образованию относится не только кейсы в школах и университетах, но и повышение квалификации сотрудников, либо обучение технике безопасности на опасных предприятиях.",
+        "img": "/assets/images/1.png"
+      },
+      {
+        "title": "VR для медицины",
+        "description": "VR услуги для тренировки хирургов, моделирования сложных операций и даже в терапии пациентов, например, в лечении фобий или реабилитации после травм. Медицина стала одной из важнейших областей развития VR/AR/MR. Вместо того, чтобы учить молодых хирургов оперировать живых людей, они могут отрабатывать аналогичные навыки на виртуальных пациентах.",
+        "img": "/assets/images/2.png"
+      },
+      {
+        "title": "VR для архитектуры",
+        "description": "Использование VR услуг архитекторами и дизайнерами для визуализации своих проектов. Это позволяет исполнителям проектов и потенциальным клиентам «пройтись» по будущему дому или офису ещё до начала строительства. ",
+        "img": "/assets/images/3.png"
+      },
+      {
+        "title": "VR для спорта",
+        "description": "Использование VR для анализа техники и стратегий тренировки в условиях, максимально приближенных к реальным соревнованиям. С помощью виртуальной реальности мы предлагаем обучение как профессиональных спортсменов, так и обычных любителей спорта.",
+        "img": "/assets/images/4.png"
+      },
+      {
+        "title": "Корпоративные VR-игры",
+        "description": "VR Tech Solutions предлагает инновационные VR-игры и активности, разработанные для корпоративных клиентов, способствующие командообразованию и укреплению корпоративной культуры. Также разрабатываются командные квесты, соревновательные игры и игровые мероприятия для сплочения коллектива.",
+        "img": "/assets/images/5.png"
+      }
+    ]
+  },
+  "features": {
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
