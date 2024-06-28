@@ -1,7 +1,6 @@
 [build]
   publish = "out"
   command = "npm run build-prod"  
-  environment = { ANALYZE = "${ANALYZE}" }
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
