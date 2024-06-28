@@ -3,7 +3,6 @@ import React, { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Script from 'next/script';
 
-import { GA_ADS_ID } from '../lib/googleAds';
 import * as gtag from '../lib/gtag';
 
 const App = () => {
@@ -39,7 +38,6 @@ const App = () => {
           `,
         }}
       />
-      <Script async src={GA_ADS_ID} crossOrigin="anonymous" />
     </>
   );
 };
